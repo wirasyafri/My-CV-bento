@@ -16,6 +16,7 @@ This project was inspired by several outstanding portfolios. Here are some that 
 - [Gianmarco Portfolio](https://gianmarco.xyz/)
 - [Vitesse Portfolio](https://astro-theme-vitesse.netlify.app/)
 - [Gurido Portfolio](https://gurido.vercel.app/)
+- [Andrés Camilo Plaza](https://bue221.vercel.app/)
 
 ## Technologies Used
 
